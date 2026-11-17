@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-A collection of my solutions to LeetCode problems using **Java and C++**, focused on data structures, algorithms, problem-solving techniques, and writing clean, efficient code.
+A collection of my solutions to LeetCode problems using **JavaScript and TypeScript**, focused on data structures, algorithms, problem-solving techniques, and writing clean, efficient code.
 
 This repository documents my continuous practice in algorithmic thinking, coding challenges, and technical interview preparation.
 
@@ -17,8 +17,8 @@ Each solution focuses on:
 
 ## Tech Stack
 
-- **Java** — Primary language for algorithmic problem solving.
-- **C++** — Additional language for performance-oriented solutions.
+- **JavaScript** — Primary language for algorithmic problem solving.
+- **TypeScript** — Additional language for performance-oriented solutions.
 - **Git & GitHub** — Version control and progress tracking.
 
 ## Topics Covered
