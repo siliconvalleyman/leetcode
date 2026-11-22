@@ -70,7 +70,7 @@ The objective is to find efficient solutions while maintaining clear and underst
 
 ## LeetCode Profile
 
-[View My LeetCode Profile](https://leetcode.com/)
+[View My LeetCode Profile](https://leetcode.com/u/siliconvalleyman/)
 
 ## Author
 
